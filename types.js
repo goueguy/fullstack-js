@@ -26,3 +26,5 @@ const {email,password,phoneNumber} = user;
 // setTimeout(()=>{
 //     window.location =`https://www.google.com`;
 // },3000)
+
+/* https://wesbos.com/javascript/01-the-basics/types-null-and-undefined */
